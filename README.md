@@ -1,3 +1,3 @@
-# One Hashtag means Main Header
+## One Hashtag means Main Header
 
-Some description/ explanatio of your project
+Some description/ explanation of your project
